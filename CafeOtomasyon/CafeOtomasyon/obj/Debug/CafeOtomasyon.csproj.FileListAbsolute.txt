@@ -1,0 +1,11 @@
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Form1.resources
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+C:\Users\seyidyıldız\source\repos\CafeOtomasyon\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
