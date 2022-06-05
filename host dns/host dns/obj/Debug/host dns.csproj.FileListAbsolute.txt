@@ -1,0 +1,11 @@
+C:\Users\seyidyıldız\source\repos\host dns\host dns\bin\Debug\host dns.exe.config
+C:\Users\seyidyıldız\source\repos\host dns\host dns\bin\Debug\host dns.exe
+C:\Users\seyidyıldız\source\repos\host dns\host dns\bin\Debug\host dns.pdb
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host_dns.Form1.resources
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host_dns.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.exe
+C:\Users\seyidyıldız\source\repos\host dns\host dns\obj\Debug\host dns.pdb
