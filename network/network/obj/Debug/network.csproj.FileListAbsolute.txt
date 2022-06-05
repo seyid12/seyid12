@@ -1,0 +1,11 @@
+C:\Users\seyidyıldız\source\repos\network\network\bin\Debug\network.exe.config
+C:\Users\seyidyıldız\source\repos\network\network\bin\Debug\network.exe
+C:\Users\seyidyıldız\source\repos\network\network\bin\Debug\network.pdb
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.Form1.resources
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.exe
+C:\Users\seyidyıldız\source\repos\network\network\obj\Debug\network.pdb
