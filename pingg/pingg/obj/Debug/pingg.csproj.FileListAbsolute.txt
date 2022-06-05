@@ -1,0 +1,11 @@
+C:\Users\seyidyıldız\source\repos\pingg\pingg\bin\Debug\pingg.exe.config
+C:\Users\seyidyıldız\source\repos\pingg\pingg\bin\Debug\pingg.exe
+C:\Users\seyidyıldız\source\repos\pingg\pingg\bin\Debug\pingg.pdb
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.Form1.resources
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.exe
+C:\Users\seyidyıldız\source\repos\pingg\pingg\obj\Debug\pingg.pdb
