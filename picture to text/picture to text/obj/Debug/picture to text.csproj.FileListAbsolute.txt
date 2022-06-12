@@ -1,0 +1,17 @@
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\x86\tesseract41.dll
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\x64\tesseract41.dll
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\picture to text.exe.config
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\picture to text.exe
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\picture to text.pdb
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\bin\Debug\Tesseract.dll
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.csproj.AssemblyReference.cache
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture_to_text.Form1.resources
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture_to_text.Properties.Resources.resources
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.csproj.GenerateResource.cache
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.csproj.CoreCompileInputs.cache
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.csproj.CopyComplete
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.exe
+C:\Users\seyidyıldız\source\repos\picture to text\picture to text\obj\Debug\picture to text.pdb
