@@ -1,0 +1,342 @@
+#cmplt{margin:auto;
+    position: relative;}
+    #snf1{
+        height: 558px;
+        background: #000000;}
+#dsng{
+    margin-top: 0%;
+}
+#cnsl{
+    width: 1396px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    background: #585858;}
+    #cnslp{
+        text-align: right;
+        padding-top: 16px;
+        color: rgb(255, 255, 255);
+    }
+    #btncmplt{
+        position: relative;
+        width: 1396px;
+        margin-top: 2px;
+        margin-left: auto;
+        margin-right: auto;}
+        button{
+            color: gainsboro;
+            border: #000000;
+        }
+    #btn1{
+        width: 173px;
+        height: 100px;
+        margin-left: 0px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+    #btn2{
+        width: 173px;
+        height: 100px;
+        margin-left: 174px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}  
+    #btn3{
+        width: 173px;
+        height: 100px;
+        margin-left: 349px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}  
+        #btn4{
+        width: 173px;
+        height: 100px;
+        margin-left: 524px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn5{
+        width: 173px;
+        height: 100px;
+        margin-left: 698px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn6{
+        width: 173px;
+        height: 100px;
+        margin-left: 873px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn7{
+        width: 173px;
+        height: 100px;
+        margin-left: 1048px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn8{
+        width: 173px;
+        height: 100px;
+        margin-left: 1223px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn9{
+        width: 173px;
+        height: 100px;
+        margin-left: 0px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn10{
+        width: 173px;
+        height: 100px;
+        margin-left: 174px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn11{
+        width: 173px;
+        height: 100px;
+        margin-left: 349px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn12{
+        width: 173px;
+        height: 100px;
+        margin-left: 524px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn13{
+        width: 173px;
+        height: 100px;
+        margin-left: 698px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn14{
+        width: 173px;
+        height: 100px;
+        margin-left: 873px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn15{
+        width: 173px;
+        height: 100px;
+        margin-left: 1048px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn16{
+        width: 173px;
+        height: 100px;
+        margin-left: 1223px;
+        margin-top: 101px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn17{
+        width: 173px;
+        height: 100px;
+        margin-left: 0px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn18{
+        width: 173px;
+        height: 100px;
+        margin-left: 174px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn19{
+        width: 173px;
+        height: 100px;
+        margin-left: 349px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn20{
+        width: 173px;
+        height: 100px;
+        margin-left: 524px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn21{
+        width: 173px;
+        height: 100px;
+        margin-left: 698px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn22{
+        width: 173px;
+        height: 100px;
+        margin-left: 873px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn23{
+        width: 173px;
+        height: 100px;
+        margin-left: 1048px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn24{
+        width: 173px;
+        height: 100px;
+        margin-left: 1223px;
+        margin-top: 202px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn25{
+        width: 173px;
+        height: 100px;
+        margin-left: 0px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn26{
+        width: 173px;
+        height: 100px;
+        margin-left: 174px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn27{
+        width: 173px;
+        height: 100px;
+        margin-left: 349px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn28{
+        width: 173px;
+        height: 100px;
+        margin-left: 524px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn29{
+        width: 173px;
+        height: 100px;
+        margin-left: 698px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn30{
+        width: 173px;
+        height: 100px;
+        margin-left: 873px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn31{
+        width: 173px;
+        height: 100px;
+        margin-left: 1048px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn32{
+        width: 173px;
+        height: 100px;
+        margin-left: 1223px;
+        margin-top: 303px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn33{
+        width: 173px;
+        height: 100px;
+        margin-left: 0px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn34{
+        width: 173px;
+        height: 100px;
+        margin-left: 174px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn35{
+        width: 173px;
+        height: 100px;
+        margin-left: 349px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn36{
+        width: 173px;
+        height: 100px;
+        margin-left: 524px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn37{
+        width: 173px;
+        height: 100px;
+        margin-left: 698px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn38{
+        width: 173px;
+        height: 100px;
+        margin-left: 873px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn39{
+        width: 173px;
+        height: 100px;
+        margin-left: 1048px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
+        #btn40{
+        width: 173px;
+        height: 100px;
+        margin-left: 1223px;
+        margin-top: 404px;
+        border: 1px solid #056F76;
+        background: #0707bf;
+        position: absolute;}
