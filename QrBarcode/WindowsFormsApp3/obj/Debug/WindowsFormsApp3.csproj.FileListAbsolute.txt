@@ -1,0 +1,17 @@
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Zen.Barcode.Design.dll
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Zen.Barcode.Web.dll
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Zen.Barcode.Web.Mvc.dll
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\seyid\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MessagingToolkit.QRCode.dll
