@@ -1,23 +1,28 @@
 # Merhaba, ben Seyid! 👋
 
-**Yazılım Geliştirici | Sistem Yöneticisi (Linux) | AI & Deep Learning Uzmanı**
+**Yazılım Geliştirici | Cloud & System Admin | AI & Deep Learning Uzmanı**
 
-Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye olan tutkumla iş süreçlerini ve altyapıları modernize ediyorum. **Python** ve **C#** ile yazılım geliştirmenin yanı sıra, **Derin Öğrenme**, **Linux Sistem Yönetimi** ve **Otomasyon (RPA)** konularında uzmanlaşarak uçtan uca çözümler üretiyorum. **IBM Machine Learning** yetkinliklerimle veriye dayalı profesyonel modeller geliştiriyorum.
+Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye olan tutkumla iş süreçlerini ve altyapıları modernize ediyorum. **Python** ve **C#** ile yazılım geliştirmenin yanı sıra, **Derin Öğrenme**, **Linux Sistem Yönetimi** ve **Multi-Cloud (Azure & IBM)** mimarileri üzerine uzmanlaşarak uçtan uca çözümler üretiyorum.
 
 ---
 
 ### 🚀 Hakkımda
 
-- 🧠 **Deep Learning:** PyTorch, TensorFlow ve Keras ile ileri seviye model eğitimi yapıyorum.
-- 🎓 **IBM Machine Learning** metodolojileri ile veri bilimi projeleri geliştiriyorum.
+- ☁️ **Bulut Bilişim:** Hem **Microsoft Azure** hem de **IBM Cloud** platformlarında ölçeklenebilir servisler ve veritabanı mimarileri tasarlıyorum.
+- 🧠 **Deep Learning:** PyTorch, TensorFlow ve IBM Watson ile yapay zeka modelleri eğitiyorum.
 - 🐧 **Linux Sistem Yönetimi:** Farklı dağıtımlarda (**Ubuntu, Debian, Fedora, Kali**) sunucu yönetimi konusunda yetkinim.
 - 🤖 **RPA** ile rutin ofis ve veri süreçlerini tamamen otonom hale getiriyorum.
 - 🔭 **C# ve Excel-DNA** ile Gemini API destekli gelişmiş eklentiler yazıyorum.
-- ☁️ **Azure** bulut mimarileri ve **Veritabanı Yönetimi** (SQL/NoSQL) ilgi alanım.
+- 🇬🇧 Teknik dokümantasyonları takip etmek için aktif olarak **İngilizce** öğreniyorum.
 
 ---
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
+
+**Bulut Bilişim (Cloud Computing):**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4285F4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 
 **Yapay Zeka & Derin Öğrenme:**
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052165?style=for-the-badge&logo=ibm&logoColor=white)
@@ -25,7 +30,6 @@ Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye o
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Sistem Yönetimi & İşletim Sistemleri:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -39,7 +43,6 @@ Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-0078D4?style=for-the-badge&logo=uipath&logoColor=white)
 
 ---
@@ -52,8 +55,8 @@ Excel süreçlerini otomatize eden yapay zeka destekli eklenti.
 * **Teknolojiler:** C#, Excel-DNA, Gemini API, RPA.
 
 #### 2. Deep Learning & ML Experiments
-TensorFlow, PyTorch ve IBM araçları kullanılarak yapılan model çalışmaları.
-* **Teknolojiler:** PyTorch, Keras, IBM Watson Studio.
+TensorFlow, PyTorch ve IBM Watson kullanılarak yapılan model çalışmaları.
+* **Teknolojiler:** PyTorch, Keras, IBM Cloud & Watson.
 
 #### 3. Linux & Server Management Scripts
 Sunucu optimizasyonu ve yönetimi için geliştirdiğim scriptler.
@@ -76,6 +79,6 @@ Film veritabanı yönetimi için RESTful API.
 
 ### 📫 İletişim
 
-Derin öğrenme modelleri, Linux sistemleri veya otomasyon projeleri üzerine konuşmak için:
+Cloud mimarileri (Azure/IBM), derin öğrenme veya Linux sistemleri üzerine konuşmak için:
 
 [http://linkedin.com/in/seyid-yıldız-310091349] | [seyidyildiz416@gmail.com]
