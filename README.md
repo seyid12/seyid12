@@ -2,13 +2,13 @@
 
 **Software Developer | Cloud & AI Engineer | System Administrator**
 
-Currently working at Ankara University Faculty of Medicine Hospital, I bridge the gap between finance and technology. I specialize in modernizing business processes through **Automation (RPA)**, **AI Integration**, and **Cloud Technologies**. My expertise ranges from building complex **Backend systems** to managing **Linux infrastructures** and training **Deep Learning models**.
+I bridge the gap between finance and technology by building efficient solutions. I specialize in modernizing business processes through **Automation (RPA)**, **AI Integration**, and **Cloud Technologies**. My expertise ranges from building complex **Backend systems** to managing **Linux infrastructures** and training **Deep Learning models**.
 
 ---
 
 ### 🚀 About Me
 
-- ☁️ **Multi-Cloud Engineer:** Developing and deploying scalable services on **Azure** and **IBM Cloud** platforms.
+- ☁️ **Cloud & Containers:** Developing and deploying scalable services on **Azure** and **IBM Cloud** using **Docker** for containerization.
 - 🧠 **AI & Deep Learning:** Developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
 - 🐧 **System Administration:** Advanced management of **Linux** distributions (**Kali, Ubuntu, Debian, Fedora**) and **Bash** scripting.
 - 🤖 **RPA & Automation:** Automating routine tasks using **Power Automate**, **Excel-DNA**, **Selenium**, and custom bots.
@@ -30,6 +30,7 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Cloud Computing:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -75,8 +76,8 @@ Training and testing advanced AI models for various data science tasks.
 * **Tech:** PyTorch, TensorFlow, IBM Watson, Keras.
 
 #### 3. Movie API & Backend Services
-RESTful API development for data management.
-* **Tech:** ASP.NET Core, Entity Framework, Flask, MSSQL, PostgreSQL.
+RESTful API development, containerized for scalable deployment.
+* **Tech:** ASP.NET Core, Docker, Entity Framework, Flask, MSSQL, PostgreSQL.
 
 #### 4. Autonomous Cleaning Robot (Concept)
 A robotic project designed to identify and clean dried mud in office environments.
