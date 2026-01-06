@@ -9,7 +9,7 @@ Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye o
 ### 🚀 Hakkımda
 
 - ☁️ **Bulut Bilişim:** Hem **Microsoft Azure** hem de **IBM Cloud** platformlarında ölçeklenebilir servisler ve veritabanı mimarileri tasarlıyorum.
-- 🧠 **Deep Learning:** PyTorch, TensorFlow ve IBM Watson ile yapay zeka modelleri eğitiyorum.
+- 🧠 **Deep Learning & AI:** PyTorch, TensorFlow, Azure AI ve IBM Watson ile profesyonel yapay zeka modelleri eğitiyorum.
 - 🐧 **Linux Sistem Yönetimi:** Farklı dağıtımlarda (**Ubuntu, Debian, Fedora, Kali**) sunucu yönetimi konusunda yetkinim.
 - 🤖 **RPA** ile rutin ofis ve veri süreçlerini tamamen otonom hale getiriyorum.
 - 🔭 **C# ve Excel-DNA** ile Gemini API destekli gelişmiş eklentiler yazıyorum.
@@ -22,9 +22,9 @@ Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye o
 **Bulut Bilişim (Cloud Computing):**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4285F4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 
 **Yapay Zeka & Derin Öğrenme:**
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052165?style=for-the-badge&logo=ibm&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -55,8 +55,8 @@ Excel süreçlerini otomatize eden yapay zeka destekli eklenti.
 * **Teknolojiler:** C#, Excel-DNA, Gemini API, RPA.
 
 #### 2. Deep Learning & ML Experiments
-TensorFlow, PyTorch ve IBM Watson kullanılarak yapılan model çalışmaları.
-* **Teknolojiler:** PyTorch, Keras, IBM Cloud & Watson.
+TensorFlow, PyTorch, Azure AI ve IBM Watson kullanılarak yapılan model çalışmaları.
+* **Teknolojiler:** PyTorch, Keras, Azure AI, IBM Watson.
 
 #### 3. Linux & Server Management Scripts
 Sunucu optimizasyonu ve yönetimi için geliştirdiğim scriptler.
@@ -81,4 +81,4 @@ Film veritabanı yönetimi için RESTful API.
 
 Cloud mimarileri (Azure/IBM), derin öğrenme veya Linux sistemleri üzerine konuşmak için:
 
-[http://linkedin.com/in/seyid-yıldız-310091349] | [seyidyildiz416@gmail.com]
+[LinkedIn](http://linkedin.com/in/seyid-yıldız-310091349) | [E-Mail](mailto:seyidyildiz416@gmail.com)
