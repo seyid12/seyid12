@@ -1,74 +1,92 @@
-# Merhaba, ben Seyid! 👋
+# Hello, I'm Seyid! 👋
 
-**Yazılım Geliştirici | Cloud & System Admin | AI & Deep Learning Uzmanı**
+**Software Developer | AI & Cloud Architect | System Administrator**
 
-Ankara Üniversitesi Tıp Fakültesi Hastanesi'nde çalışırken, teknolojiye olan tutkumla iş süreçlerini ve altyapıları modernize ediyorum. **Python** ve **C#** ile yazılım geliştirmenin yanı sıra, **Derin Öğrenme**, **Linux Sistem Yönetimi** ve **Multi-Cloud (Azure & IBM)** mimarileri üzerine uzmanlaşarak uçtan uca çözümler üretiyorum.
-
----
-
-### 🚀 Hakkımda
-
-- ☁️ **Bulut Bilişim:** Hem **Microsoft Azure** hem de **IBM Cloud** platformlarında ölçeklenebilir servisler ve veritabanı mimarileri tasarlıyorum.
-- 🧠 **Deep Learning & AI:** PyTorch, TensorFlow, Azure AI ve IBM Watson ile profesyonel yapay zeka modelleri eğitiyorum.
-- 🐧 **Linux Sistem Yönetimi:** Farklı dağıtımlarda (**Ubuntu, Debian, Fedora, Kali**) sunucu yönetimi konusunda yetkinim.
-- 🤖 **RPA** ile rutin ofis ve veri süreçlerini tamamen otonom hale getiriyorum.
-- 🔭 **C# ve Excel-DNA** ile Gemini API destekli gelişmiş eklentiler yazıyorum.
-- 🇬🇧 Teknik dokümantasyonları takip etmek için aktif olarak **İngilizce** öğreniyorum.
+Currently working at Ankara University Faculty of Medicine Hospital, I bridge the gap between finance and technology. I specialize in modernizing business processes through **Automation (RPA)**, **AI Integration**, and **Cloud Architectures**. My expertise ranges from building complex **Backend systems** to managing **Linux infrastructures** and training **Deep Learning models**.
 
 ---
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
+### 🚀 About Me
 
-**Bulut Bilişim (Cloud Computing):**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+- ☁️ **Multi-Cloud Architect:** Designing scalable architectures on **Azure** and **IBM Cloud**; managing infrastructure as code with **Terraform**.
+- 🧠 **AI & Deep Learning:** developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
+- 🐧 **System Administration:** Advanced management of **Linux** distributions (**Kali, Ubuntu, Debian, Fedora**) and **Bash** scripting.
+- 🤖 **RPA & Automation:** Automating routine tasks using **Excel-DNA**, **Selenium**, and custom bots.
+- 📱 **Mobile & Hardware:** Interested in Android ecosystems (Custom ROMs) and autonomous robotics concepts.
+- 🇬🇧 I am actively learning **English** to master technical documentation and global tech trends.
 
-**Yapay Zeka & Derin Öğrenme:**
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052165?style=for-the-badge&logo=ibm&logoColor=white)
+---
+
+### 🛠️ Comprehensive Tech Stack
+
+**Artificial Intelligence & Data Science:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-052165?style=for-the-badge&logo=ibm&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Sistem Yönetimi & İşletim Sistemleri:**
+**Cloud & DevOps:**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+**Backend & Software Development:**
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+**System Administration & OS:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Yazılım & Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Databases & RPA:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4285F4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-0078D4?style=for-the-badge&logo=uipath&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-### 🌟 Öne Çıkan Projelerim
+### 🌟 Featured Projects
 
-#### 1. AI-Powered Excel Add-in (RPA & AI)
-Excel süreçlerini otomatize eden yapay zeka destekli eklenti.
-* **Amaç:** Manuel raporlamayı bitirmek, Excel Copilot alternatifi oluşturmak.
-* **Teknolojiler:** C#, Excel-DNA, Gemini API, RPA.
+#### 1. AI-Powered Excel Copilot (RPA & C#)
+A comprehensive add-in that replicates Microsoft Copilot features within Excel using the Gemini API.
+* **Tech:** C#, Excel-DNA, .NET Framework 4.8, Gemini API.
 
-#### 2. Deep Learning & ML Experiments
-TensorFlow, PyTorch, Azure AI ve IBM Watson kullanılarak yapılan model çalışmaları.
-* **Teknolojiler:** PyTorch, Keras, Azure AI, IBM Watson.
+#### 2. Infrastructure as Code & DevOps
+Managing GitHub repositories and cloud resources automatically.
+* **Tech:** Terraform, GitHub Actions, Cloud State Management.
 
-#### 3. Linux & Server Management Scripts
-Sunucu optimizasyonu ve yönetimi için geliştirdiğim scriptler.
-* **Teknolojiler:** Bash, Linux (Debian/Ubuntu), Python.
+#### 3. Deep Learning & ML Research
+Training and testing advanced AI models for various data science tasks.
+* **Tech:** PyTorch, TensorFlow, IBM Watson, Keras.
 
-#### 4. Movie API (Backend)
-Film veritabanı yönetimi için RESTful API.
-* **Teknolojiler:** ASP.NET Core, Entity Framework, Azure SQL.
+#### 4. Movie API & Backend Services
+RESTful API development for data management.
+* **Tech:** ASP.NET Core, Entity Framework, Flask, PostgreSQL.
+
+#### 5. Autonomous Cleaning Robot (Concept)
+A robotic project designed to identify and clean dried mud in office environments.
+* **Tech:** Hardware logic, AI Vision (Planned).
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=seyid12&show_icons=true&theme=radical" alt="Seyid12 GitHub Stats" />
@@ -77,8 +95,8 @@ Film veritabanı yönetimi için RESTful API.
 
 ---
 
-### 📫 İletişim
+### 📫 Connect with Me
 
-Cloud mimarileri (Azure/IBM), derin öğrenme veya Linux sistemleri üzerine konuşmak için:
+I am open to discussing Cloud Architecture, AI Research, or Linux Systems.
 
 [LinkedIn](http://linkedin.com/in/seyid-yıldız-310091349) | [E-Mail](mailto:seyidyildiz416@gmail.com)
