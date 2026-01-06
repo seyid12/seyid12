@@ -9,9 +9,9 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 ### 🚀 About Me
 
 - ☁️ **Multi-Cloud Architect:** Designing scalable architectures on **Azure** and **IBM Cloud**; managing infrastructure as code with **Terraform**.
-- 🧠 **AI & Deep Learning:** developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
+- 🧠 **AI & Deep Learning:** Developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
 - 🐧 **System Administration:** Advanced management of **Linux** distributions (**Kali, Ubuntu, Debian, Fedora**) and **Bash** scripting.
-- 🤖 **RPA & Automation:** Automating routine tasks using **Excel-DNA**, **Selenium**, and custom bots.
+- 🤖 **RPA & Automation:** Automating routine tasks using **Power Automate**, **Excel-DNA**, **Selenium**, and custom bots.
 - 📱 **Mobile & Hardware:** Interested in Android ecosystems (Custom ROMs) and autonomous robotics concepts.
 - 🇬🇧 I am actively learning **English** to master technical documentation and global tech trends.
 
@@ -54,6 +54,9 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Databases & RPA:**
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4285F4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
@@ -78,7 +81,7 @@ Training and testing advanced AI models for various data science tasks.
 
 #### 4. Movie API & Backend Services
 RESTful API development for data management.
-* **Tech:** ASP.NET Core, Entity Framework, Flask, PostgreSQL.
+* **Tech:** ASP.NET Core, Entity Framework, Flask, MSSQL, PostgreSQL.
 
 #### 5. Autonomous Cleaning Robot (Concept)
 A robotic project designed to identify and clean dried mud in office environments.
