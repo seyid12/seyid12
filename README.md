@@ -8,7 +8,7 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 
 ### 🚀 About Me
 
-- ☁️ **Multi-Cloud Engineer:** Developing and deploying scalable services on **Azure** and **IBM Cloud**; managing infrastructure as code with **Terraform**.
+- ☁️ **Multi-Cloud Engineer:** Developing and deploying scalable services on **Azure** and **IBM Cloud** platforms.
 - 🧠 **AI & Deep Learning:** Developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
 - 🐧 **System Administration:** Advanced management of **Linux** distributions (**Kali, Ubuntu, Debian, Fedora**) and **Bash** scripting.
 - 🤖 **RPA & Automation:** Automating routine tasks using **Power Automate**, **Excel-DNA**, **Selenium**, and custom bots.
@@ -29,10 +29,9 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Cloud & DevOps:**
+**Cloud Computing:**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -71,19 +70,15 @@ Currently working at Ankara University Faculty of Medicine Hospital, I bridge th
 A comprehensive add-in that replicates Microsoft Copilot features within Excel using the Gemini API.
 * **Tech:** C#, Excel-DNA, .NET Framework 4.8, Gemini API.
 
-#### 2. Infrastructure as Code & DevOps
-Managing GitHub repositories and cloud resources automatically.
-* **Tech:** Terraform, GitHub Actions, Cloud State Management.
-
-#### 3. Deep Learning & ML Research
+#### 2. Deep Learning & ML Research
 Training and testing advanced AI models for various data science tasks.
 * **Tech:** PyTorch, TensorFlow, IBM Watson, Keras.
 
-#### 4. Movie API & Backend Services
+#### 3. Movie API & Backend Services
 RESTful API development for data management.
 * **Tech:** ASP.NET Core, Entity Framework, Flask, MSSQL, PostgreSQL.
 
-#### 5. Autonomous Cleaning Robot (Concept)
+#### 4. Autonomous Cleaning Robot (Concept)
 A robotic project designed to identify and clean dried mud in office environments.
 * **Tech:** Hardware logic, AI Vision (Planned).
 
