@@ -1,14 +1,14 @@
 # Hello, I'm Seyid! 👋
 
-**Software Developer | AI & Cloud Architect | System Administrator**
+**Software Developer | Cloud & AI Engineer | System Administrator**
 
-Currently working at Ankara University Faculty of Medicine Hospital, I bridge the gap between finance and technology. I specialize in modernizing business processes through **Automation (RPA)**, **AI Integration**, and **Cloud Architectures**. My expertise ranges from building complex **Backend systems** to managing **Linux infrastructures** and training **Deep Learning models**.
+Currently working at Ankara University Faculty of Medicine Hospital, I bridge the gap between finance and technology. I specialize in modernizing business processes through **Automation (RPA)**, **AI Integration**, and **Cloud Technologies**. My expertise ranges from building complex **Backend systems** to managing **Linux infrastructures** and training **Deep Learning models**.
 
 ---
 
 ### 🚀 About Me
 
-- ☁️ **Multi-Cloud Architect:** Designing scalable architectures on **Azure** and **IBM Cloud**; managing infrastructure as code with **Terraform**.
+- ☁️ **Multi-Cloud Engineer:** Developing and deploying scalable services on **Azure** and **IBM Cloud**; managing infrastructure as code with **Terraform**.
 - 🧠 **AI & Deep Learning:** Developing professional models using **PyTorch**, **TensorFlow**, **Azure AI**, and **IBM Watson**.
 - 🐧 **System Administration:** Advanced management of **Linux** distributions (**Kali, Ubuntu, Debian, Fedora**) and **Bash** scripting.
 - 🤖 **RPA & Automation:** Automating routine tasks using **Power Automate**, **Excel-DNA**, **Selenium**, and custom bots.
