@@ -2,13 +2,14 @@
 
 **Backend Developer & AI Integrator | MIS Student**
 
-I bridge the gap between complex administrative workflows and modern technology. With a hands-on background in university accounting and support services, I have a clear understanding of real-world operational bottlenecks. My focus is on building robust backend architectures and integrating AI models to automate and optimize these processes. 
+I bridge the gap between complex administrative workflows and modern technology. With a hands-on background in university accounting and support services, I have a clear understanding of real-world operational bottlenecks. My focus is on building robust backend architectures, integrating AI models, and implementing RPA solutions to automate and optimize these processes. 
 
-Whether it's deploying a multi-provider LLM tool via CLI, structuring a Clean Architecture API in .NET, or training models on Linux, I build software that solves actual problems.
+Whether it's deploying a multi-provider LLM tool via CLI, structuring a Clean Architecture API in .NET, or automating repetitive tasks, I build software that solves actual problems.
 
 ### 🚀 What I Do
 *   **Backend Engineering:** Designing scalable RESTful APIs and microservices using **Go** and **C# (ASP.NET Core)**.
 *   **AI Integration & ML:** Connecting backend systems to Large Language Models (like the Gemini API) and training custom vision/time-series models using **Python**, **PyTorch**, and **TensorFlow**.
+*   **RPA & Automation:** Streamlining and automating routine administrative workflows using **Power Automate**, **Selenium**, and custom desktop scripts.
 *   **Infrastructure:** Setting up and managing containerized environments with **Docker** on **Linux (Pop!_OS/Ubuntu)**.
 *   **Mobile Development (Bonus):** Successfully deploying CI/CD pipelines and full-fledged applications to the Apple App Store using **Flutter/Dart**.
 
@@ -19,6 +20,7 @@ Whether it's deploying a multi-provider LLM tool via CLI, structuring a Clean Ar
 *   **Languages:** C#, Go, Python, Dart
 *   **Backend & APIs:** ASP.NET Core, FastAPI/Flask, RESTful Architecture, Clean Architecture
 *   **AI & Data:** PyTorch, TensorFlow, Gemini API, Pandas, NumPy
+*   **RPA & Automation:** Power Automate, Selenium, Excel-DNA
 *   **Infrastructure & OS:** Linux (Pop!_OS, Ubuntu, Debian), Docker, Bash
 *   **Databases:** PostgreSQL, MSSQL, Azure Cosmos DB
 
@@ -33,7 +35,7 @@ Whether it's deploying a multi-provider LLM tool via CLI, structuring a Clean Ar
 > A containerized backend service demonstrating Clean Architecture and Repository Pattern principles for highly maintainable code.
 
 **AI-Powered Excel Copilot** (C# / Excel-DNA)
-> A desktop add-in that brings the power of the Gemini API directly into Microsoft Excel, designed to automate data extraction and analysis for administrative and accounting workflows.
+> A desktop RPA add-in that brings the power of the Gemini API directly into Microsoft Excel, designed to automate data extraction and analysis for administrative and accounting workflows.
 
 **RealEnglish** (Flutter / iOS)
 > A local English crossword puzzle and vocabulary application. Successfully built, compiled via Codemagic, and actively deployed on the Apple App Store.
